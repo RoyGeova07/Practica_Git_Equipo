@@ -6,11 +6,10 @@ package practica_colaboradores_git;
 
 /**
  *
- * @author DELL
+ * @author 50488
  */
-public class Parte_W {
+public class parte_e {
     public static void main(String[] args) {
-        System.out.println("Aporte grandisimo de william");
-        
+        System.out.println("GOLAAAAAAAA SHEEEEEEEEEEEEEESH SOLLO TIENE QUE VIVIR UN VERANO EN NUEVA YORK ");
     }
 }
